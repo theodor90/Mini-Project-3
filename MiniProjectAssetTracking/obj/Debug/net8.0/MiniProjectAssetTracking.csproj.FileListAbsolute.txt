@@ -1,0 +1,14 @@
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\bin\Debug\net8.0\MiniProjectAssetTracking.exe
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\bin\Debug\net8.0\MiniProjectAssetTracking.deps.json
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\bin\Debug\net8.0\MiniProjectAssetTracking.runtimeconfig.json
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\bin\Debug\net8.0\MiniProjectAssetTracking.dll
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\bin\Debug\net8.0\MiniProjectAssetTracking.pdb
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\obj\Debug\net8.0\MiniProjectAssetTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\obj\Debug\net8.0\MiniProjectAssetTracking.AssemblyInfoInputs.cache
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\obj\Debug\net8.0\MiniProjectAssetTracking.AssemblyInfo.cs
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\obj\Debug\net8.0\MiniProjectAssetTracking.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\obj\Debug\net8.0\MiniProjectAssetTracking.dll
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\obj\Debug\net8.0\refint\MiniProjectAssetTracking.dll
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\obj\Debug\net8.0\MiniProjectAssetTracking.pdb
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\obj\Debug\net8.0\MiniProjectAssetTracking.genruntimeconfig.cache
+C:\Users\Theodor\Desktop\Lexicon c#\April\MiniProjectAssetTracking\MiniProjectAssetTracking\obj\Debug\net8.0\ref\MiniProjectAssetTracking.dll
